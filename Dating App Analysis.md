@@ -29,12 +29,6 @@ BEGIN
     SELECT 'Correct usage!';
 END;
 
-
-
-
-
-
-
 -- 3. Write a query to find the top 3 occupations with the highest average swiping history using a window function.
 SELECT 
     Occupation,
